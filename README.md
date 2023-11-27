@@ -33,7 +33,7 @@
 ![Screenshot 2023-11-21 225157](https://github.com/Sanjit2328/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331694/4d58663d-690d-487b-93c6-d6fe24195541)
 ![Screenshot 2023-11-21 225221](https://github.com/Sanjit2328/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331694/814703bc-c223-4de2-811f-2f243e1174bc)
 ![Screenshot 2023-11-21 225232](https://github.com/Sanjit2328/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139331694/ee90bc27-0b05-41c5-ad4b-56b29e0d8fad)
-
+.
 ### Name:SANJIT P
 ### Register Number:23002570
 
